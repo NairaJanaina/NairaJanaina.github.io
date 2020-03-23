@@ -1,0 +1,590 @@
+@font-face {
+    font-family: Montserrat;
+     src: url("fontes/Montserrat-Regular.ttf");
+
+}
+@font-face {
+    font-family: Modern Sans;
+    src: url("fontes/ModernSans-Light.otf");
+
+}
+@font-face {
+    font-family: About Love;
+    src:url("fontes/AboutLove.ttf");
+
+}
+.n1{
+    font-family: Montserrat;
+    font-size: 280%;
+    color: #840d35;
+    margin-top: 13%;
+    text-align: center;
+}
+.n2{
+    font-family: Modern Sans;
+    font-size: 250%;
+    color: #89153a;
+    margin-top: 0%;
+    text-align: center;
+}
+
+.nav-link{
+    font-family: Modern Sans;
+    color: #840d35;
+    font-size: 130%;
+}
+
+a.nav-link:hover{
+    color: #ae4365;
+}
+.img-responsive{
+   
+    margin-top: -32.5%;
+    margin-left: -28%;
+    position: fixed;
+
+}
+.pt2{
+    margin-top: 13%;
+    background-color: white;
+    width: 57%;
+    height: 62%;
+}
+.img2{
+    margin-left: 11%;
+    margin-top: -33.5%;
+    height: 90%;
+
+}
+.tit{
+    font-family: About Love;
+    font-size: 420%;
+    color: #7a1e3b;
+    margin-left: 32%;
+    margin-top: -3%;
+}
+.text1{
+    background-color:#ffffff;
+    width: 35%;
+    height: 40%;
+    margin-left: 8%;
+    margin-top: 2%;
+    color: #ae4365;
+    font-family: Montserrat;
+    font-size: 125%;
+    
+
+}
+.text2{
+    background-color: #ffffff;
+    color: #ae4365;
+    width: 35%;
+    height: 40%;
+    margin-left: 47%;
+    font-size: 125%;
+    font-family: Montserrat;
+
+}
+.hab{
+    background-color:#ffffff;
+    height: 60%;
+    margin-top: 2%;
+    width: 60%;
+}
+.hablT{
+    color: #89153a;
+    font-family: About Love;
+    font-size: 500%;
+    margin-left: 20%;
+}
+.hb1{
+    color: #ae4365;
+    font-family: Modern Sans;
+    font-size: 200%;
+    margin-left: 14%;
+    margin-top: 2%;
+}
+.hb2{
+    color: #ae4365;
+    font-family: Modern Sans;
+    font-size: 200%;
+    margin-left: 55%;
+    margin-top: -3%;
+
+}
+.hb3{
+    color: #ae4365;
+    font-family: Modern Sans;
+    font-size: 200%;
+    margin-left: 14%;
+
+}
+.hb4{
+    color: #ae4365 ;
+    font-family: Modern Sans;
+    font-size: 200%;
+    margin-left: 57%;
+    margin-top: -1.5%;
+
+}
+.hb5{
+    color: #ae4365;
+    font-family: Modern Sans;
+    font-size: 200%;
+    margin-left: 14%;
+    margin-top: -1%;
+}
+.fotoM{
+    height: 59%;
+    width: 51%;
+    margin-top: -26%;
+    margin-left: 48%;
+}
+.hbTc{
+    color: #89153a;
+    font-family: About Love;
+    font-size: 445%;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 4.5%;
+
+}
+.titleP{
+    color: #ae4365;
+    font-family: About Love;
+    font-size: 405%;
+    margin-left: 12%;
+
+}
+.imgH{
+    height: 64%;
+    margin-top: -26%;
+    margin-left: 7.1%;
+}
+.nmP{
+    font-size: 140%;
+    margin-top: -1%;
+    margin-left: 9%;
+    font-family: Montserrat;
+    color: #89153a;
+
+
+}
+.nm{
+    font-size: 140%;
+    padding-top: 4%;
+    margin-top: -2%;
+    margin-left: 9%;
+    font-family:Montserrat;
+    color: #89153a;
+
+
+}
+.design{
+    margin-left: 40%;
+    margin-top: -39%;
+}
+.nmPD{
+    font-size: 140%;
+    margin-top: -2.8%;
+    margin-left: 39.9%;
+    font-family: Montserrat;
+    color: #89153a;
+
+
+}
+.nmD{
+    color: #89153a;
+
+    font-size: 140%;
+    padding-top: 4%;
+    margin-top: -1%;
+    margin-left: 39.9%;
+    font-family: Montserrat;
+    
+
+}
+.titleD{
+    color: #ae4365;
+    font-family: About Love;
+    font-size: 405%;
+    margin-left: 46%;
+    margin-top: -36%;
+
+
+}
+.imgHD{
+    height: 64%;
+    margin-top: -28.8%;
+    margin-left: 36%;
+    padding-top: -1%;
+
+}
+.nmS{
+    color: #89153a;
+
+    font-size: 140%;
+    padding-top: 4%;
+    margin-top: -1%;
+    margin-left: 39.9%;
+    font-family: Montserrat;
+    
+
+}
+.titleS{
+    color: #ae4365;
+    font-family: About Love;
+    font-size: 400%;
+    margin-left: 38%;
+    margin-top: -29%;
+
+
+}
+.imgHS{
+    height: 64%;
+    margin-top: -29%;
+    margin-left: 36%;
+
+}
+.nmPS{
+    font-size: 140%;
+    margin-top: -3.4%;
+    margin-left: 39.9%;
+    font-family:Montserrat;
+    color: #89153a;
+
+
+}
+
+.col3{
+    margin-left: 50%;
+    margin-top: -37%;
+}
+.sps{
+    margin-top: -73.5%;
+    margin-left: -31.5%;
+}
+.nmST{
+    font-size: 140%;
+    margin-top: -2.2%;
+    margin-left: 9%;
+    font-family: Montserrat;
+    color: #89153a;
+}
+.nmSpt{
+    font-size: 140%;
+    padding-top: 4%;
+    margin-top: -0.7%;
+    margin-left: 9%;
+    font-family: Montserrat;
+    color: #89153a;
+
+}
+.titleSpt{
+    color: #ae4365;
+    font-family: About Love;
+    font-size: 400%;
+    margin-left: 20%;
+    margin-top: -29%;
+
+
+}
+.imgSpt{
+    height: 64%;
+    margin-top: -40.1%;
+    margin-left: 6%;
+
+}
+.col4{
+    margin-left: 50%;
+    margin-top: 4%;
+}
+.imgrb{
+    height: 64%;
+    margin-top: -52.4%;
+    margin-left: 36%;
+
+}
+.titlerb{
+    color: #ae4365;
+    font-family:About Love;
+    font-size: 400%;
+    margin-left: 50%;
+    margin-top: -35.5%;
+
+
+}
+ #dropdownMenuLink{
+    background-color: #ffffff;
+    font-family: Modern Sans;
+    color: #840d35;
+    font-size: 130%;
+    border: none;
+    text-decoration: none;
+}
+#subir{
+	position:fixed;
+	bottom:0px;
+    right:0px;
+}
+
+header{
+    
+    position: sticky;
+    top: 0;
+    background-color: #ffffff;
+    
+}
+html {
+    scroll-behavior: smooth;
+}
+.dropdown-item{
+    font-family: Montserrat;
+    color: #ae4365;
+}
+footer{
+    background-color: #ae4365;
+    width: 100%;
+    height: 37%;
+    
+}
+.titleF{
+    color: #ffffff;
+    font-family: About Love;
+    font-size: 280%;
+    margin-left: 2%;
+
+}
+.links{
+   
+    margin-top: -13.5%;
+    margin-left:40%;
+}
+
+.linha-vertical {
+    margin-left: 48%;
+    margin-top: -21%;
+    height:68%;
+    border-left: 2px dashed;
+    border-color: #ffffff;
+  }
+
+.line {
+      position: relative;
+      width: 0px;
+      margin: auto;
+      border-right: 2px solid rgba(255, 255, 255, 0.75);
+      font-size: 180%;
+      text-align: center;
+      white-space: nowrap;
+      overflow: hidden;
+      font-family: About Love;
+      font-size: 550%;
+      color: #ae4365;
+      margin-top: -1.5%;
+      text-align: center;
+
+}
+/*Animação*/
+.anim-typewriter {
+      animation: typewriter 4s steps(9) 500ms infinite,
+      blinkTextCursor 500ms steps(9) infinite normal;
+}
+@keyframes typewriter {
+      0% {
+            width: 0px;
+      }
+      10% {
+            width: 0px;
+      }
+      25% {
+            width: 310px;
+      }
+      75% {
+            width: 510px;
+      }
+      90% {
+            width: 0px;
+      }
+      100% {
+            width: 0px;
+      }
+}
+@keyframes blinkTextCursor {
+      from {
+            border-right-color: rgba(255, 255, 255, 0.75);
+      }
+      to {
+            border-right-color: transparent;
+      }
+}
+
+.fadingEffect {
+    position:sticky;
+    top:0; bottom:0; right:0;
+    width:100%;
+    background:white;
+    -moz-animation: showHide 5s ease-in alternate infinite; /* Firefox */
+    -webkit-animation: showHide 5s ease-in alternate infinite; /* Safari and Chrome */
+    -ms-animation: showHide 5s ease-in alternate infinite; /* IE10 */
+    -o-animation: showHide 5s ease-in alternate infinite; /* Opera */
+    animation: showHide 5s ease-in alternate infinite;
+}
+@-webkit-keyframes showHide { /* Chrome, Safari */
+    0% {width:100%}
+    40% {width:0%}
+    60% {width:0%;}
+    100% {width:100%;}
+}
+@-moz-keyframes showHide { /* FF */
+    0% {width:100%}
+    40% {width:0%}
+    60% {width:0%;}
+    100% {width:100%;}
+}
+@-ms-keyframes showHide { /* IE10 */
+    0% {width:100%}
+    40% {width:0%}
+    60% {width:0%;}
+    100% {width:100%;}
+}
+@-o-keyframes showHide { /* Opera */
+    0% {width:100%}
+    40% {width:0%}
+    60% {width:0%;}
+    100% {width:100%;}
+}
+@keyframes showHide {
+    0% {width:100%}
+    40% {width:0%}
+    60% {width:0%;}
+    100% {width:100%;}
+}
+@-webkit-keyframes fadeInLeft {
+    from {
+        opacity:0;
+        -webkit-transform: translatex(-10px);
+        -moz-transform: translatex(-10px);
+        -o-transform: translatex(-10px);
+        transform: translatex(-10px);
+    }
+    to {
+        opacity:1;
+        -webkit-transform: translatex(0);
+        -moz-transform: translatex(0);
+        -o-transform: translatex(0);
+        transform: translatex(0);
+    }
+}
+@-moz-keyframes fadeInLeft {
+    from {
+        opacity:0;
+        -webkit-transform: translatex(-10px);
+        -moz-transform: translatex(-10px);
+        -o-transform: translatex(-10px);
+        transform: translatex(-10px);
+    }
+    to {
+        opacity:1;
+        -webkit-transform: translatex(0);
+        -moz-transform: translatex(0);
+        -o-transform: translatex(0);
+        transform: translatex(0);
+    }
+}
+@keyframes fadeInLeft {
+    from {
+        opacity:0;
+        -webkit-transform: translatex(-100px);
+        -moz-transform: translatex(-100px);
+        -o-transform: translatex(-100px);
+        transform: translatex(-100px);
+    }
+    to {
+        opacity:1;
+        -webkit-transform: translatex(0);
+        -moz-transform: translatex(0);
+        -o-transform: translatex(0);
+        transform: translatex(0);
+    }
+}
+.in-left {
+    -webkit-animation-name: fadeInLeft;
+    -moz-animation-name: fadeInLeft;
+    -o-animation-name: fadeInLeft;
+    animation-name: fadeInLeft;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-delay: 1s;
+    -moz-animation-delay: 1s;
+    -o-animation-duration:1s;
+    animation-delay: 1s;
+}
+@-webkit-keyframes fadeInDown {
+    from {
+        opacity:0;
+        -webkit-transform: translatey(-10px);
+        -moz-transform: translatey(-10px);
+        -o-transform: translatey(-10px);
+        transform: translatey(-10px);
+    }
+    to {
+        opacity:1;
+        -webkit-transform: translatey(0);
+        -moz-transform: translatey(0);
+        -o-transform: translatey(0);
+        transform: translatey(0);
+    }
+}
+@-moz-keyframes fadeInDown {
+    from {
+        opacity:0;
+        -webkit-transform: translatey(-10px);
+        -moz-transform: translatey(-10px);
+        -o-transform: translatey(-10px);
+        transform: translatey(-10px);
+    }
+    to {
+        opacity:1;
+        -webkit-transform: translatey(0);
+        -moz-transform: translatey(0);
+        -o-transform: translatey(0);
+        transform: translatey(0);
+    }
+}
+@keyframes fadeInDown {
+    from {
+        opacity:0;
+        -webkit-transform: translatey(-10px);
+        -moz-transform: translatey(-10px);
+        -o-transform: translatey(-10px);
+        transform: translatey(-10px);
+    }
+    to {
+        opacity:1;
+        -webkit-transform: translatey(0);
+        -moz-transform: translatey(0);
+        -o-transform: translatey(0);
+        transform: translatey(0);
+    }
+}
+.in-down {
+    -webkit-animation-name: fadeInDown;
+    -moz-animation-name: fadeInDown;
+    -o-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    animation-duration: 1s;
+}
